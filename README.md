@@ -1,6 +1,8 @@
 # Hello, folks! 
 
-My name is James Zow. I'm a Java full stack development engineer. I'm from Shanghai, China. I'm trying to transform into a deep learning software development engineer for freedom and dream
+My name is James ZOW. I'm a Java full stack development engineer. I'm from Shanghai, China. I'm trying to transform into a deep learning software development engineer
+
+For freedom and dreams
 
 ## 🔧 Technologies & Tools
 

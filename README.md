@@ -4,7 +4,7 @@ My name is James Zow. I'm a Java full stack development engineer. I'm from Shang
 
 ## For freedom and dreams
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jzow)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jzow&show_icons=true&theme=tokyonight)
 
 ## 🔧 Technologies & Tools
 

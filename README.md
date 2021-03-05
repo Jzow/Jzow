@@ -2,7 +2,9 @@
 
 My name is James Zow. I'm a Java full stack development engineer. I'm from Shanghai, China. I'm trying to transform into a deep learning software development engineer
 
-For freedom and dreams
+## For freedom and dreams
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jzow)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔧 Technologies & Tools
 

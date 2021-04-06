@@ -1,6 +1,6 @@
 # Hello, folks! 
 
-My name is James Zow. I'm a freelance full stack engineer. I'm from Shanghai, China. 
+My name is James Zow. I'm from Shanghai, China. I've been interested in coding since I was 16 years old. I am a freelance full stack engineer. I am good at mixed programming of Java architecture and Rust language
 
 
 ## For freedom and dreams

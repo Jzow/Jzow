@@ -1,6 +1,6 @@
 # Hello, folks! 
 
-My name is James Zow. I'm from Shanghai, China. I've been interested in coding since I was 16 years old. I am a freelance full stack engineer. I am good at Java development and love Rust language
+My name is James Zow. I'm from Shanghai, China. I've been interested in coding since I was 16 years old.
 
 
 ## For freedom and dreams

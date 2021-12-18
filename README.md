@@ -1,7 +1,8 @@
 # Hello, folks! 
 
-My name is Zhao Wei. I'm from Shanghai, China. I've been interested in coding since I was 16 years old.
-I'm especially looking forward to finding a computer science teacher
+My name is Zhao Wei. I'm from Shanghai, China. I've been interested in coding since 
+
+I especially look forward to finding a computer science teacher. If you are willing to guide me in technical learning, I will be grateful. You can contact me by email
 
 
 ## For freedom and dreams

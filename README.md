@@ -2,8 +2,7 @@
 
 My name is Zhao Wei. I'm from Shanghai, China. I've been interested in coding since 
 
-I especially look forward to finding a computer science teacher. If you are willing to guide me in technical learning, I will be grateful. You can contact me by email
-
+I am particularly looking forward to finding a computer science teacher. I would appreciate it if you would guide me in technical learning. You can contact me by email. Thank you very much for taking the time to read my profile
 
 ## For freedom and dreams
 

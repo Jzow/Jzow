@@ -5,5 +5,6 @@ My name is Zhao Wei. I am from Shanghai, China. I am twenty three years old this
 I am particularly looking forward to finding a teacher. I would appreciate it if you would guide me in technical learning. You can contact me by email. Thank you very much for taking the time to read my profile
 
 ## For freedom and dreams
+![jzow GitHub stats](https://github-readme-stats.vercel.app/api?username=jzow&theme=buefy&show_icons=true)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jzow&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jzow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

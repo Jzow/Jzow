@@ -1,6 +1,6 @@
 # Hello, folks! 
 
-My name is Zhao Wei. I am from Shanghai, China. I am twenty four years old this year. I have been working on JavaWeb for 3 years. I am interested in CV / NLP and Rust language
+My name is Zhao Wei. I am from Shanghai, China. I am twenty three years old this year. I have been working on JavaWeb for 4 years. I am interested in CV / NLP and Rust language
 
 🌈Kendo is like a long night, and learning is similar
 

@@ -1,3 +1,3 @@
-## Hey, guys
+## Hey, I'm James
 
-Stay Hungry Stay Foolish.
+Currently, I am a full-time entrepreneur, and open source is my hobby.
